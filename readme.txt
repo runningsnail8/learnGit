@@ -4,4 +4,6 @@ Git has a mutable index called stage.
 Git tracks changes.
 My stupid boss still prefer SVN.
 
+This is Creating anew branch is quick.
+
 myAdd
