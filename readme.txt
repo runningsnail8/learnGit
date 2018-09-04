@@ -14,3 +14,4 @@ Creating a new branch is dev 2.
 
 myAdd
 >>>>>>> dev
+conflict end.
