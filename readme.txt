@@ -6,4 +6,5 @@ My stupid boss still prefer SVN.
 
 This is Creating anew branch is quick.
 
-myAdd
+myAddmaster add content -- this is test
+a linux cat test;
