@@ -6,5 +6,11 @@ My stupid boss still prefer SVN.
 
 This is Creating anew branch is quick.
 
+<<<<<<< HEAD
 myAddmaster add content -- this is test
 a linux cat test;
+=======
+Creating a new branch is dev 2.
+
+myAdd
+>>>>>>> dev
