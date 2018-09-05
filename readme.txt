@@ -15,3 +15,5 @@ Creating a new branch is dev 2.
 myAdd
 >>>>>>> dev
 conflict end.
+
+this function is fixed bug(in branch issue-101).
