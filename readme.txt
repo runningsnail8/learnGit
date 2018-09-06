@@ -16,4 +16,8 @@ myAdd
 >>>>>>> dev
 conflict end.
 
+<<<<<<< Updated upstream
 this function is fixed bug(in branch issue-101).
+=======
+this function is stash.
+>>>>>>> Stashed changes
