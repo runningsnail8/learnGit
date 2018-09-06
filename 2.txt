@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 I am zhengtong
 dev 2.txt 1
+=======
+hello
+i am a gitclone_dev
+>>>>>>> f9c5a8ec144c6e8d60b3b52583bf3152f95c9bc9
+
+no change because lazy
